@@ -1,0 +1,814 @@
+{
+  "preguntes": [
+    {
+      "id": 1,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Països Baixos",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "França",
+          "correcta": true
+        },
+        {
+          "id": 3,
+          "resposta": "Argentina",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Nepal",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+      "id": 2,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Vietnam",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Argentina",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Polònia",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Japó",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg"
+    },
+    {
+      "id": 3,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Japó",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Portugal",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Brasil",
+          "correcta": true
+        },
+        {
+          "id": 4,
+          "resposta": "Eslovàquia",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+    },
+    {
+      "id": 4,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Índia",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Alemanya",
+          "correcta": true
+        },
+        {
+          "id": 3,
+          "resposta": "Bèlgica",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Nepal",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+    },
+    {
+      "id": 5,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Índia",
+          "correcta": true
+        },
+        {
+          "id": 2,
+          "resposta": "Vietnam",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Eslovàquia",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Alemanya",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+    },
+    {
+      "id": 6,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Nepal",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Colòmbia",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Japó",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Canadà",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+    },
+    {
+      "id": 7,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Rússia",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Mèxic",
+          "correcta": true
+        },
+        {
+          "id": 3,
+          "resposta": "Polònia",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Àustria",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+    },
+    {
+      "id": 8,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Rússia",
+          "correcta": true
+        },
+        {
+          "id": 2,
+          "resposta": "Txèquia",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Colòmbia",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Corea del Sud",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    {
+      "id": 9,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Països Baixos",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Sud-àfrica",
+          "correcta": true
+        },
+        {
+          "id": 3,
+          "resposta": "França",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Nepal",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+    },
+    {
+      "id": 10,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Sud-àfrica",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Alemanya",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Vietnam",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Austràlia",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+    },
+    {
+      "id": 11,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Austràlia",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Brasil",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Argentina",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Regne Unit",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      "id": 12,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Corea del Sud",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Argentina",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Txèquia",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Xina",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+    },
+    {
+      "id": 13,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Estats Units",
+          "correcta": true
+        },
+        {
+          "id": 2,
+          "resposta": "França",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Brasil",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Índia",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+    },
+    {
+      "id": 14,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Itàlia",
+          "correcta": true
+        },
+        {
+          "id": 2,
+          "resposta": "Eslovàquia",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Estats Units",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Regne Unit",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+    },
+    {
+      "id": 15,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Mèxic",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Austràlia",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Eslovàquia",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Espanya",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+    },
+    {
+      "id": 16,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Alemanya",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Austràlia",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Rússia",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Argentina",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    {
+      "id": 17,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Argentina",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Portugal",
+          "correcta": true
+        },
+        {
+          "id": 3,
+          "resposta": "Sud-àfrica",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "França",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    {
+      "id": 18,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Colòmbia",
+          "correcta": true
+        },
+        {
+          "id": 2,
+          "resposta": "Regne Unit",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Corea del Sud",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Estats Units",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+    },
+    {
+      "id": 19,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Espanya",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Corea del Sud",
+          "correcta": true
+        },
+        {
+          "id": 3,
+          "resposta": "Argentina",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Mèxic",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+    },
+    {
+      "id": 20,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Txèquia",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Corea del Sud",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Vietnam",
+          "correcta": true
+        },
+        {
+          "id": 4,
+          "resposta": "Austràlia",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+    },
+    {
+      "id": 21,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Bangladesh",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Nepal",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Portugal",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Països Baixos",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+    },
+    {
+      "id": 22,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Espanya",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Corea del Sud",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Alemanya",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Bèlgica",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+    },
+    {
+      "id": 23,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Àustria",
+          "correcta": true
+        },
+        {
+          "id": 2,
+          "resposta": "Sud-àfrica",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Vietnam",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Colòmbia",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+    },
+    {
+      "id": 24,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Índia",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Estats Units",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Suïssa",
+          "correcta": true
+        },
+        {
+          "id": 4,
+          "resposta": "Austràlia",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+    },
+    {
+      "id": 25,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Bangladesh",
+          "correcta": true
+        },
+        {
+          "id": 2,
+          "resposta": "Corea del Sud",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Estats Units",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Mèxic",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+    },
+    {
+      "id": 26,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Austràlia",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Índia",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Pakistan",
+          "correcta": true
+        },
+        {
+          "id": 4,
+          "resposta": "Espanya",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+    },
+    {
+      "id": 27,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Argentina",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Nepal",
+          "correcta": true
+        },
+        {
+          "id": 3,
+          "resposta": "Brasil",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Índia",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+    },
+    {
+      "id": 28,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Txèquia",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Índia",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Eslovàquia",
+          "correcta": true
+        },
+        {
+          "id": 4,
+          "resposta": "Argentina",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+    },
+    {
+      "id": 29,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Pakistan",
+          "correcta": false
+        },
+        {
+          "id": 2,
+          "resposta": "Regne Unit",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Sud-àfrica",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Txèquia",
+          "correcta": true
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+    },
+    {
+      "id": 30,
+      "pregunta": "De quin país és aquesta bandera?",
+      "respostes": [
+        {
+          "id": 1,
+          "resposta": "Polònia",
+          "correcta": true
+        },
+        {
+          "id": 2,
+          "resposta": "Alemanya",
+          "correcta": false
+        },
+        {
+          "id": 3,
+          "resposta": "Portugal",
+          "correcta": false
+        },
+        {
+          "id": 4,
+          "resposta": "Suïssa",
+          "correcta": false
+        }
+      ],
+      "imatge": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg"
+    }
+  ]
+}
